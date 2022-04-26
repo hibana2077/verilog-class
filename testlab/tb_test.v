@@ -22,6 +22,6 @@ module tb_test;
         a=2;
         b=3;
         cin=1;
-        #100
+        #100;
     end
 endmodule
